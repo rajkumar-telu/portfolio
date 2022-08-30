@@ -7,6 +7,7 @@ import { Link } from "react-scroll";
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
+  const [mailURL,setMailURL] = useState('https://mail.google.com/mail/?view=cm&fs=1&to=rajkumar.teluk@gmail.com&body=Found'+' '+'your'+' '+'site'+' '+'looks'+' '+'cool'+' '+'Raj!');
   const handleClick = () => setNav(!nav);
 
   return (
@@ -92,7 +93,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-900">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://www.linkedin.com/in/rajkumartk/"
+              href="https://www.linkedin.com/in/rajkumartk/" target="_blank" rel="noreferrer"
             >
               Linkedin <FaLinkedin size={30} />
             </a>
@@ -100,7 +101,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://github.com/rajkumar-telu"
+              href="https://github.com/rajkumar-telu" target="_blank" rel="noreferrer"
             >
               Github <FaGithub size={30} />
             </a>
@@ -108,7 +109,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href={mailURL} target="_blank" rel="noreferrer"
             >
               Email <HiOutlineMail size={30} />
             </a>
@@ -116,7 +117,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://drive.google.com/file/d/1qVG2ZwZ84zQtvNO_lf2ab5mMzs9B9Knv/view?usp=sharing" target="_blank" rel="noreferrer"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
