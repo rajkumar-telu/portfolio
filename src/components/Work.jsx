@@ -14,7 +14,7 @@ const Work = () => {
         </div>
 
 {/* Container */}
-        <div className='grid sm:grid-cols-2 gap-4'>
+        <div className='grid sm:grid-cols-2 md:grid-cols-2 gap-4'>
 
             {/* Grid Item */}
           <div
@@ -24,11 +24,11 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Expense Tracking System
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 cursor-not-allowed font-bold text-lg disabled:opacity-75' disabled>
                     Demo
                   </button>
                 </a>
@@ -47,15 +47,15 @@ const Work = () => {
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                React JS Application
+                Real Time Chat
               </span>
               <div className='pt-8 text-center'>
                 <a href='/'>
-                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
+                  <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 cursor-not-allowed font-bold text-lg disabled:opacity-75' disabled>
                     Demo
                   </button>
                 </a>
-                <a href='/'>
+                <a href='https://github.com/rajkumar-telu/Real_Time_Chat'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
