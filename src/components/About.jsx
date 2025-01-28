@@ -18,11 +18,9 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              people's lives . I develop software for clients ranging from individuals
-              and small-businesses all the way to large enterprise corporations.
-              What would you do if you had a software expert available at your
-              fingertips?
+              Hi! I’m Rajkumar Telukuntla, a recent Master’s graduate from the University of Cincinnati with a knack for converting coffee into clean, functional code. From building user-friendly interfaces to optimizing backend systems, I enjoy turning ideas into practical solutions that make a difference.
+              I’m passionate about software development and can’t wait to roll up my sleeves and get to work on meaningful projects. Whether it’s brainstorming a cool feature or solving a challenging bug, I’m ready to jump in and make an impact.  
+              When I’m not coding, you’ll find me exploring new tech, enjoying great music, or dreaming up my next side project. Let’s connect—I’d love to hear about your next big idea!
             </p>
           </div>
         </div>
