@@ -11,10 +11,12 @@ const Home = () => {
           RajKumar Telukuntla
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0]">
-          I'm a Developer.
+          I'm a Software Engineer.
         </h2>
         <p className="text-[#8892b0] py-4 max-w-[700px]">
-          Currently, I'm working as a Junior Software Engineer at EPAM.
+          As a recent Master’s graduate from the University of Cincinnati with a knack for converting coffee into clean, functional code I'm always looking for new opportunities to take my career next level.
+          From building user-friendly interfaces to optimizing backend systems, I enjoy turning ideas into practical solutions that make a difference.
+          I’m passionate about software development and can’t wait to roll up my sleeves and get to work on meaningful projects.
         </p>
         <div>
           <button className="text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-red-600 hover:border-red-600">
