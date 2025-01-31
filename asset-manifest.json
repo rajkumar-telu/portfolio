@@ -1,21 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7076b40d.css",
-    "main.js": "/portfolio/static/js/main.046f47ec.js",
-    "static/media/realestate.jpg": "/portfolio/static/media/realestate.44fd19f4c6872731149c.jpg",
-    "static/media/workImg.jpeg": "/portfolio/static/media/workImg.e4c66be6ae2ae4f83608.jpeg",
+    "main.js": "/portfolio/static/js/main.adc10c29.js",
+    "static/media/spring-3-logo-png-transparent.png": "/portfolio/static/media/spring-3-logo-png-transparent.1a753d3a09a8df3cec6c.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
-    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
-    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/angular.png": "/portfolio/static/media/angular.516a3d8f6c079ee04718.png",
-    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.7076b40d.css.map": "/portfolio/static/css/main.7076b40d.css.map",
-    "main.046f47ec.js.map": "/portfolio/static/js/main.046f47ec.js.map"
+    "main.adc10c29.js.map": "/portfolio/static/js/main.adc10c29.js.map"
   },
   "entrypoints": [
     "static/css/main.7076b40d.css",
-    "static/js/main.046f47ec.js"
+    "static/js/main.adc10c29.js"
   ]
 }
