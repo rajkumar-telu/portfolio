@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.7076b40d.css",
-    "main.js": "/portfolio/static/js/main.adc10c29.js",
+    "main.js": "/portfolio/static/js/main.63bf50bd.js",
     "static/media/spring-3-logo-png-transparent.png": "/portfolio/static/media/spring-3-logo-png-transparent.1a753d3a09a8df3cec6c.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/portfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/angular.png": "/portfolio/static/media/angular.516a3d8f6c079ee04718.png",
     "index.html": "/portfolio/index.html",
     "main.7076b40d.css.map": "/portfolio/static/css/main.7076b40d.css.map",
-    "main.adc10c29.js.map": "/portfolio/static/js/main.adc10c29.js.map"
+    "main.63bf50bd.js.map": "/portfolio/static/js/main.63bf50bd.js.map"
   },
   "entrypoints": [
     "static/css/main.7076b40d.css",
-    "static/js/main.adc10c29.js"
+    "static/js/main.63bf50bd.js"
   ]
 }
